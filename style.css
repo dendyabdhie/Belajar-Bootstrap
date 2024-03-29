@@ -1,0 +1,32 @@
+section {
+    min-height: 500px;
+    padding-top: 50px;
+}
+
+nav .navbar a {
+    font-size: 20px;
+}
+
+nav .navbar-brand {
+    font-size: 05px;
+}
+
+#hero {
+    min-height: 600px;
+    background-color: #212529;
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+#portfolio {
+    background-color: #212529;
+}
+
+#contact {
+    min-height: 600px;
+
+}
+
+#footer {
+    background-color: #2B3036;
+}
